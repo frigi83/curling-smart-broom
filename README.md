@@ -1,6 +1,7 @@
 # Curling Smart Broom v2
 
 ![Smart Broom V2](smart-broom-v2.jpg)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C4GWIGO)
 
 This is my project to measure the effectiveness of sweeping in curling. In this repository are collected all the files to reproduce smart sweeping on your own.
 
